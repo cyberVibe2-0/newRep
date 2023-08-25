@@ -1,7 +1,0 @@
-#include <stdio.h>
-
-void main() {
- scanf("Hello World");
-
-return(0);
-}
